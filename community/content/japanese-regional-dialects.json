@@ -321,4 +321,11 @@
     "region": "Kansai",
     "note": "Very common in Osaka/Kyoto speech. (Set 4)"
   }
+  {
+  "dialect": "でら",
+  "standardJapanese": "とても",
+  "english": "very",
+  "region": "Nagoya",
+  "note": "Characteristic Nagoya intensifier. (Set 4)"
+}
 ]
